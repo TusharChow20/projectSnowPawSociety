@@ -6,10 +6,10 @@ import Footer from "../Components/Footer";
 const RootLayout = () => {
   return (
     <div>
-      <section className="px-15 mt-4 ">
+      <section className=" md:px-7 lg:px-15 lg:mt-4 ">
         <Navbar></Navbar>
       </section>
-      <section className="min-h-[calc(100vh-300px)]">
+      <section className="min-h-[calc(100vh-301px)]">
         <Outlet></Outlet>
       </section>
       <section>
