@@ -1,5 +1,6 @@
 import React from "react";
 import profileImg from "../assets/profile1.png";
+import { NavLink } from "react-router";
 
 const Navbar = () => {
   return (
@@ -29,7 +30,7 @@ const Navbar = () => {
               className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
             >
               <li>
-                <a>Home</a>
+                <NavLink to="/home">Home</NavLink>
               </li>
               <li>
                 <a>Services</a>
@@ -43,7 +44,7 @@ const Navbar = () => {
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal px-1">
             <li>
-              <a>Home</a>
+              <NavLink to="/home">Home</NavLink>
             </li>
             <li>
               <a>Services</a>
