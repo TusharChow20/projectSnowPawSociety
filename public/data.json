@@ -1,0 +1,74 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "When temperatures drop, every dog deserves to stay warm without losing its sense of adventure or comfort. Our Winter Coat Fitting for Dogs service offers personalized fittings to ensure every pet enjoys the perfect balance of warmth, mobility, and style. At PawCare Studio, we understand that each breed has unique needs — short-haired dogs require more insulation, while long-haired breeds need breathable yet cozy materials. That’s why we tailor every coat to match your pet’s exact body shape and activity level. Our premium winter wear collection features water-resistant fabrics, adjustable straps, soft linings, and reflective stitching for nighttime safety. We take precise measurements to eliminate tightness around the chest or neck while ensuring full range of motion. Beyond functionality, our fittings are about confidence and joy — your dog will not only feel comfortable but also look charming in our winter collection. Whether it’s a quick walk in the park or a snowy hike, our coats keep your furry friend safe from cold winds, dampness, and frostbite. We also educate pet owners about coat maintenance and layering options, ensuring long-lasting comfort all winter long. With PawCare Studio, every dog gets the luxury of warmth and the elegance of style.",
+    "image": "https://i.ibb.co.com/b5hgPYZM/winter.jpg",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Winter brings joy and snuggles — but also dry air, flaky skin, and cracked paws for pets. Our Winter Grooming & Paw Treatment service, offered by CozyPets Grooming, is designed to restore hydration and maintain coat health during the cold months. Each session includes a thorough grooming process with winter-formulated, moisture-rich shampoos and conditioners that lock in natural oils and keep fur silky. Our professional groomers use gentle techniques that prevent static buildup, ensuring your pet’s coat remains soft and manageable even in low humidity. The highlight of the session is our moisturizing paw treatment: we apply a blend of natural balms containing shea butter, aloe vera, and vitamin E to soothe and heal cracked pads. For active dogs who enjoy outdoor walks, we offer a special snow-protection balm that creates a breathable barrier against ice, salt, and road chemicals. The session concludes with a warm towel wrap that helps pets relax and improves circulation. Our team also provides personalized tips for at-home grooming, including how to brush correctly, manage shedding, and maintain paw moisture. At CozyPets Grooming, every furry client leaves feeling refreshed, nourished, and ready to conquer the cold.",
+    "image": "https://i.ibb.co.com/WpWxt7XQ/grooming.webp",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Thermal Bedding Setup",
+    "providerName": "SnuggleTails",
+    "providerEmail": "contact@snuggletails.com",
+    "price": 40,
+    "rating": 4.7,
+    "slotsAvailable": 5,
+    "description": "Comfort is essential during the winter months, and our Thermal Bedding Setup ensures your pet enjoys the warmth and security they deserve. SnuggleTails specializes in creating cozy sleeping spaces tailored to your pet’s needs — whether it’s a small cat curled up in a corner or a large dog sprawling across the floor. Each setup features layered, thermal-insulated bedding with adjustable warmth levels. We use breathable materials that trap heat while allowing airflow, preventing overheating or dampness. Our bedding options include orthopedic padding for senior pets, hypoallergenic covers for sensitive ones, and eco-friendly fabrics for sustainable comfort. Beyond just a bed, we design an entire rest environment — positioning it away from cold drafts, choosing calming textures, and adding soft blankets that mimic natural fur comfort. SnuggleTails also offers a maintenance guide, teaching pet owners how to wash and refresh bedding without losing insulation quality. The result is a sleep sanctuary where your pet feels safe, warm, and deeply relaxed. Our goal is to make cold nights cozy and restful, giving your furry friend the sleep they need to stay healthy and energetic all winter long.",
+    "image": "https://i.ibb.co.com/XGzGs04/thermal.jpg",
+    "category": "Comfort"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Winter Nutrition Consultation",
+    "providerName": "PawThrive Clinic",
+    "providerEmail": "care@pawthrive.com",
+    "price": 35,
+    "rating": 4.9,
+    "slotsAvailable": 6,
+    "description": "Nutrition is the foundation of health, especially during the colder months when pets burn extra calories to stay warm. Our Winter Nutrition Consultation, conducted by PawThrive Clinic, is a comprehensive diet planning service tailored to your pet’s breed, age, and energy level. Our experienced veterinarians and nutritionists analyze your pet’s current eating habits, weight trends, and activity patterns to create a customized winter meal plan. The goal is to strengthen immunity, enhance metabolism, and maintain optimal body condition throughout the season. We recommend nutrient-rich foods with healthy fats, proteins, and essential vitamins to support coat shine, joint flexibility, and overall vitality. Special focus is given to hydration since many pets drink less water during winter — our experts suggest moisture-enhancing meals and safe broths to prevent dehydration. For pets with allergies or specific health concerns, we design specialized diet adjustments using natural ingredients. PawThrive also guides owners on portion control, snack management, and the importance of vitamin D during limited sunlight periods. Every consultation ends with a detailed nutrition chart, winter feeding tips, and follow-up support. It’s more than a diet — it’s a lifestyle transformation that keeps your pet glowing with health even in the frostiest weather.",
+    "image": "https://i.ibb.co.com/fWfTrGN/nutration1.png",
+    "category": "Health"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Snow Walk Training & Safety Session",
+    "providerName": "FurSteps Academy",
+    "providerEmail": "support@fursteps.com",
+    "price": 28,
+    "rating": 4.8,
+    "slotsAvailable": 4,
+    "description": "Walking in snow can be a thrilling experience for dogs — but it also requires proper training and safety awareness. Our Snow Walk Training & Safety Session, provided by FurSteps Academy, helps dogs adapt confidently to winter terrains while keeping them safe from cold-related hazards. Professional trainers use positive reinforcement techniques to gradually introduce pets to snow surfaces, icy textures, and new temperature sensations. The session teaches dogs how to walk safely without slipping, recognize unsafe areas like frozen ponds, and respond calmly to sudden weather changes. Owners also learn how to choose suitable winter gear — from protective booties to reflective leashes for low-light conditions. The training includes exercises that build muscle warmth, improve endurance, and enhance paw grip. For young or timid dogs, we offer gentle acclimation methods to boost confidence during snowy outings. FurSteps Academy also emphasizes post-walk care, teaching owners how to clean and inspect paws to avoid salt burns or frostbite. By the end of the program, both pet and owner feel ready for joyful, worry-free winter walks. It’s not just about training — it’s about bonding through trust, safety, and fun in the snow.",
+    "image": "https://i.ibb.co.com/xSrxyC9n/snowwalk2.png",
+    "category": "Training"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Pet Spa & Hot Towel Therapy",
+    "providerName": "WarmWhiskers Spa",
+    "providerEmail": "booking@warmwhiskers.com",
+    "price": 45,
+    "rating": 5.0,
+    "slotsAvailable": 2,
+    "description": "There’s nothing quite like a warm spa day to chase away the winter chill. At WarmWhiskers Spa, our Pet Spa & Hot Towel Therapy service delivers a luxurious experience that rejuvenates your pet’s body and mind. The session begins with a gentle brushing to remove loose fur and stimulate circulation, followed by a warm towel wrap that instantly relaxes muscles and soothes stiffness caused by cold weather. Our spa experts use aromatherapy oils and hypoallergenic conditioners designed specifically for pets, leaving the coat shiny and the skin deeply nourished. Hot towel therapy enhances blood flow, promotes relaxation, and reduces joint discomfort — especially beneficial for older pets or those with arthritis. Each spa day also includes a mini massage that releases tension and boosts energy. To complete the pampering, we offer coat conditioning treatments and light detangling for a smooth, polished finish. The environment is calm, fragrant, and stress-free — perfect for anxious pets needing comfort. We also advise owners on how to maintain post-spa care at home with safe, natural products. WarmWhiskers Spa is more than grooming; it’s a wellness retreat where pets are treated with love, warmth, and holistic care during the coldest months of the year.",
+    "image": "https://i.ibb.co.com/VcP219GY/petSpa.jpg",
+    "category": "Wellness"
+  }
+]

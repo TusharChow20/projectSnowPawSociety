@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Dr. Emily Carter",
+    "expertise": "Small Animal Surgery & Preventive Care",
+    "image": "https://images.unsplash.com/photo-1607746882042-944635dfe10e?w=500&h=500&fit=crop",
+    "advice": "Regular check-ups are the best way to keep your pets healthy and detect issues early before they become serious."
+  },
+  {
+    "name": "Dr. Rani Malhotra",
+    "expertise": "Veterinary Dermatology & Allergy Treatment",
+    "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=500&h=500&fit=crop",
+    "advice": "Healthy skin means a happy pet — maintain good hygiene and use vet-approved grooming products."
+  },
+  {
+    "name": "Dr. Sarah Nguyen",
+    "expertise": "Exotic Pet Medicine & Nutrition",
+    "image": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?w=500&h=500&fit=crop",
+    "advice": "Exotic pets need specialized diets and care — always research your pet's natural environment before bringing them home."
+  },
+  {
+    "name": "Dr. James Thompson",
+    "expertise": "Orthopedic Surgery & Rehabilitation",
+    "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=500&h=500&fit=crop",
+    "advice": "A balanced diet and daily activity can prevent many mobility problems as pets age. Keep them moving, but safely!"
+  }
+]
