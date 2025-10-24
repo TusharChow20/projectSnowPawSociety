@@ -85,9 +85,6 @@ To create an intuitive, secure, and visually stunning platform where pet owners 
 - 🎭 Personalized Profile
 - 📸 Photo Upload & Update
 - ✏️ Name Modification
-- 📊 Booking History
-- 🔐 Secure Session Management
-- 🎨 Custom Themes
 
 </td>
 </tr>
