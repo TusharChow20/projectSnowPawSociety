@@ -1,5 +1,12 @@
 import React from "react";
-import { Star, DollarSign, ArrowRight, Heart } from "lucide-react";
+import {
+  Star,
+  DollarSign,
+  ArrowRight,
+  Heart,
+  Filter,
+  ArrowUpDown,
+} from "lucide-react";
 import { Link } from "react-router";
 
 const HomeCart = ({ eachData }) => {
@@ -28,7 +35,7 @@ const HomeCart = ({ eachData }) => {
             {eachData.serviceName}
           </h2>
           <p className="text-white/80 text-sm leading-relaxed drop-shadow-lg mb-4 line-clamp-2 group-hover:text-white group-hover:line-clamp-3 transition-all duration-300">
-            {eachData.description.slice(0, 200) ||
+            {eachData.description?.slice(0, 200) ||
               "Professional pet care service with experienced handlers. Your pet's happiness and safety is our top priority."}
           </p>
           <div className="flex items-center gap-4 mb-4">
@@ -59,4 +66,5 @@ const HomeCart = ({ eachData }) => {
     </div>
   );
 };
+
 export default HomeCart;

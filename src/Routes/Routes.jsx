@@ -10,6 +10,7 @@ import Profile from "../Pages/Profile/Profile";
 import ServiceDetails from "../Pages/ServiceDetails";
 import PrivateRoute from "../Provider/PrivateRoute";
 import ErrorPage from "../Pages/LoadingError/Error";
+import AboutUs from "../Pages/AboutUs/AboutUs";
 
 const router = createBrowserRouter([
   {
@@ -35,6 +36,10 @@ const router = createBrowserRouter([
       {
         path: "/login",
         Component: Login,
+      },
+      {
+        path: "/aboutUs",
+        Component: AboutUs,
       },
       {
         path: "/register",
