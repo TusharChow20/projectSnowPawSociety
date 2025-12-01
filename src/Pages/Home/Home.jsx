@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Hero from "../Hero/Hero";
-import { useLoaderData } from "react-router";
+import { NavLink, useLoaderData } from "react-router";
 import HomeCart from "./HomeCart";
 import WinterCare from "./WinterCare";
 import AOS from "aos";
@@ -39,17 +39,27 @@ const Home = () => {
   }, []);
 
   return (
-    <div className=" mt-3">
+    <div className="mt-3">
       <Hero data={data} />
       <div>
         <h1 className="mt-10 text-3xl font-bold text-center">
           Popular Winter Care Services
         </h1>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 mt-2 gap-6">
-          {data.map((eachData) => (
+          {data.slice(0, 6).map((eachData) => (
             <HomeCart key={eachData.serviceId} eachData={eachData} />
           ))}
         </div>
+
+        <div className="flex justify-center mt-8 mb-10">
+          <NavLink
+            to={"/service"}
+            className="px-8 py-3 bg-secondary font-semibold rounded-full shadow-lg hover:shadow-xl hover:scale-105 transform transition-all duration-300 ease-in-out flex items-center gap-2"
+          >
+            See More Services
+          </NavLink>
+        </div>
+
         <WinterCare winterData={winterData} />
         <Experts expertData={expertdata}></Experts>
         <Testimonials></Testimonials>

@@ -70,5 +70,77 @@
     "description": "There’s nothing quite like a warm spa day to chase away the winter chill. At WarmWhiskers Spa, our Pet Spa & Hot Towel Therapy service delivers a luxurious experience that rejuvenates your pet’s body and mind. The session begins with a gentle brushing to remove loose fur and stimulate circulation, followed by a warm towel wrap that instantly relaxes muscles and soothes stiffness caused by cold weather. Our spa experts use aromatherapy oils and hypoallergenic conditioners designed specifically for pets, leaving the coat shiny and the skin deeply nourished. Hot towel therapy enhances blood flow, promotes relaxation, and reduces joint discomfort — especially beneficial for older pets or those with arthritis. Each spa day also includes a mini massage that releases tension and boosts energy. To complete the pampering, we offer coat conditioning treatments and light detangling for a smooth, polished finish. The environment is calm, fragrant, and stress-free — perfect for anxious pets needing comfort. We also advise owners on how to maintain post-spa care at home with safe, natural products. WarmWhiskers Spa is more than grooming; it’s a wellness retreat where pets are treated with love, warmth, and holistic care during the coldest months of the year.",
     "image": "https://i.ibb.co.com/VcP219GY/petSpa.jpg",
     "category": "Wellness"
+  },
+  {
+    "serviceId": 7,
+    "serviceName": "Indoor Exercise & Play Program",
+    "providerName": "ActivePaws Indoor Center",
+    "providerEmail": "play@activepaws.com",
+    "price": 32,
+    "rating": 4.8,
+    "slotsAvailable": 8,
+    "description": "When winter weather makes outdoor exercise challenging, our Indoor Exercise & Play Program keeps your pet active, engaged, and healthy. ActivePaws Indoor Center offers a climate-controlled facility with obstacle courses, agility equipment, interactive toys, and supervised play sessions designed to burn energy and maintain fitness. Our certified trainers create customized workout routines based on your pet's age, breed, and stamina level. Sessions include treadmill training for cardiovascular health, balance exercises for coordination, and mental stimulation games that challenge problem-solving skills. We understand that winter inactivity can lead to weight gain, boredom, and behavioral issues — our program prevents all three. Group play sessions allow socialization with other pets in a safe, monitored environment. For high-energy breeds, we offer extended sessions with sprint tracks and fetch zones. Senior pets benefit from gentle movement therapy that maintains joint flexibility without strain. Every session ends with a cooldown period and fresh water. Owners receive progress reports and at-home exercise suggestions to complement facility visits. At ActivePaws, we believe winter shouldn't limit your pet's vitality — it should simply move the fun indoors.",
+    "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?w=800",
+    "category": "Fitness"
+  },
+  {
+    "serviceId": 8,
+    "serviceName": "Winter Wellness Checkup",
+    "providerName": "FrostGuard Veterinary",
+    "providerEmail": "appointments@frostguard.vet",
+    "price": 50,
+    "rating": 4.9,
+    "slotsAvailable": 5,
+    "description": "Prevention is the best medicine, especially during winter when cold weather can exacerbate existing health conditions. Our Winter Wellness Checkup at FrostGuard Veterinary provides comprehensive health screening to ensure your pet thrives throughout the season. The examination includes temperature regulation assessment, joint mobility testing, skin and coat evaluation, and respiratory system checks. Our veterinarians look for early signs of arthritis flare-ups, dry skin conditions, and cold-related stress. We measure body weight and condition score to adjust nutrition plans if needed. Blood work options are available to monitor organ function and detect vitamin deficiencies common in winter months. For senior pets, we pay special attention to circulation issues and decreased immunity. The checkup also covers dental health, as many owners overlook oral care during colder months. We provide personalized winter care plans that include supplement recommendations, exercise guidelines, and environmental adjustments for home safety. FrostGuard Veterinary believes in proactive care — catching potential problems before they become serious. Every pet receives a detailed health report and a follow-up consultation schedule. It's peace of mind knowing your beloved companion is winter-ready and medically sound.",
+    "image": "https://images.unsplash.com/photo-1576201836106-db1758fd1c97?w=800",
+    "category": "Health"
+  },
+  {
+    "serviceId": 9,
+    "serviceName": "Heated Pet House Installation",
+    "providerName": "CozyDen Solutions",
+    "providerEmail": "install@cozyden.com",
+    "price": 85,
+    "rating": 4.7,
+    "slotsAvailable": 3,
+    "description": "Outdoor pets deserve warmth and protection from harsh winter elements. Our Heated Pet House Installation service by CozyDen Solutions provides safe, energy-efficient shelter that maintains comfortable temperatures even during freezing nights. Each installation begins with site assessment to determine optimal placement away from wind exposure and moisture. We offer insulated pet houses with built-in heating panels that self-regulate based on outdoor temperature — never too hot, never too cold. Our designs feature elevated floors to prevent ground chill, weatherproof exteriors that withstand snow and rain, and ventilation systems that ensure fresh air circulation. Interior spaces include removable thermal bedding, non-slip flooring, and easy-access doors with draft-blocking flaps. Safety is paramount — all electrical components are pet-proof with chew-resistant wiring and automatic shut-off features. We customize sizes for different breeds and multiple-pet households. Installation includes waterproofing treatment, anchoring for stability during storms, and a demonstration of maintenance procedures. CozyDen also provides energy consumption estimates and seasonal adjustment tips. For barn cats, backyard dogs, or outdoor working animals, our heated houses offer sanctuary and security. It's not just shelter — it's a warm haven where outdoor pets find comfort and protection all winter long.",
+    "image": "https://images.unsplash.com/photo-1585664811087-47f65abbad64?w=800",
+    "category": "Shelter"
+  },
+  {
+    "serviceId": 10,
+    "serviceName": "Anxiety-Relief Aromatherapy Session",
+    "providerName": "TranquilPaws Wellness",
+    "providerEmail": "relax@tranquilpaws.com",
+    "price": 38,
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Winter's shorter days and indoor confinement can trigger anxiety and restlessness in sensitive pets. Our Anxiety-Relief Aromatherapy Session at TranquilPaws Wellness uses natural, pet-safe essential oils to promote calmness, reduce stress, and improve emotional balance. Certified aromatherapists create custom blends based on your pet's temperament and specific anxiety triggers — whether it's separation anxiety, storm phobia, or general nervousness. We use gentle diffusion methods in controlled environments, never applying oils directly to skin. Calming scents like lavender, chamomile, and frankincense work with your pet's natural senses to induce relaxation without sedation. Each session includes a quiet space with soft lighting, comfortable bedding, and soothing background sounds. Our specialists observe behavioral responses and adjust aromatherapy intensity accordingly. The treatment pairs beautifully with gentle massage and breathing exercises that deepen relaxation. For pets with chronic anxiety, we design take-home aromatherapy kits with diffuser recommendations and usage guidelines. Owners learn to recognize stress signals and implement calming routines during difficult moments. TranquilPaws believes in holistic wellness — addressing emotional health alongside physical care. After each session, pets exhibit improved sleep quality, reduced destructive behaviors, and a more peaceful demeanor throughout winter's challenging months.",
+    "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=800",
+    "category": "Wellness"
+  },
+  {
+    "serviceId": 11,
+    "serviceName": "Winter Photography Session",
+    "providerName": "SnowPaws Photography",
+    "providerEmail": "capture@snowpaws.photo",
+    "price": 60,
+    "rating": 5.0,
+    "slotsAvailable": 3,
+    "description": "Winter creates magical backdrops perfect for capturing your pet's personality and beauty. Our Winter Photography Session by SnowPaws Photography specializes in creating stunning portraits that celebrate the season's charm while showcasing your furry companion's unique character. Professional pet photographers work in both outdoor winter wonderlands and cozy indoor studios with seasonal props and warm lighting. We understand animal behavior and use patience, treats, and play to capture authentic expressions — joyful jumps in snow, peaceful moments by fireplaces, or playful interactions with winter accessories. Each session includes wardrobe consultation for pets wearing festive sweaters or elegant winter coats, though natural beauty is always celebrated. We scout safe locations with beautiful scenery — snow-covered parks, frosted forests, or decorated urban settings. For anxious pets, we offer familiar environment sessions at your home with portable studio equipment. The photography package includes professional editing, color correction, and artistic filters that enhance winter atmosphere without losing natural authenticity. Clients receive high-resolution digital images perfect for holiday cards, social media, or framed keepsakes. SnowPaws also offers multi-pet family sessions and action shots for athletic dogs. These aren't just photos — they're timeless memories preserving the joy and beauty of winter companionship.",
+    "image": "https://images.unsplash.com/photo-1530281700549-e82e7bf110d6?w=800",
+    "category": "Photography"
+  },
+  {
+    "serviceId": 12,
+    "serviceName": "Emergency Winter Pet Kit Assembly",
+    "providerName": "PrepPaws Safety",
+    "providerEmail": "safety@preppaws.com",
+    "price": 55,
+    "rating": 4.8,
+    "slotsAvailable": 7,
+    "description": "Winter storms can strike unexpectedly, leaving families stranded without power or access to supplies. Our Emergency Winter Pet Kit Assembly service from PrepPaws Safety ensures you're fully prepared to care for your pet during any winter emergency. Each custom kit contains essential supplies calculated for your pet's size, dietary needs, and medical requirements. We include a 7-day food supply in sealed containers, portable water purification tablets, collapsible bowls, thermal blankets, and battery-operated heating pads. Medical essentials feature a first-aid kit with bandages, antiseptic, tweezers, and any prescription medications your pet requires. For identification purposes, we add waterproof ID tags, recent photos, and medical record copies in sealed pouches. Comfort items include favorite toys, calming treats, and familiar-scented blankets to reduce stress during emergencies. Our kits also contain LED collar lights, reflective leashes, pet-safe ice melt, and paw protection wax. We provide detailed instruction cards covering hypothermia recognition, frostbite treatment, and emergency shelter creation. PrepPaws educates owners on evacuation planning, including pet-friendly shelter locations and transport carrier preparation. Each kit comes in a durable, waterproof bag that's easy to grab during urgent situations. Winter preparedness isn't paranoia — it's responsible pet ownership that could save lives when disaster strikes.",
+    "image": "https://images.unsplash.com/photo-1623387641168-d9803ddd3f35?w=800",
+    "category": "Safety"
   }
 ]

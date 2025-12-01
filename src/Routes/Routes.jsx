@@ -11,6 +11,11 @@ import ServiceDetails from "../Pages/ServiceDetails";
 import PrivateRoute from "../Provider/PrivateRoute";
 import ErrorPage from "../Pages/LoadingError/Error";
 import AboutUs from "../Pages/AboutUs/AboutUs";
+import Contact from "../Pages/Contact/Contact";
+import Jobs from "../Pages/FotterLInks/Jobs";
+import TermsUse from "../Pages/FotterLInks/TermsUse";
+import PrivacyPolicy from "../Pages/FotterLInks/PrivacyPolicy";
+import CookiePolicy from "../Pages/FotterLInks/CookiePolicy";
 
 const router = createBrowserRouter([
   {
@@ -46,6 +51,10 @@ const router = createBrowserRouter([
         Component: Register,
       },
       {
+        path: "contact",
+        Component: Contact,
+      },
+      {
         path: "/forgot-password",
         Component: ForgotPassword,
       },
@@ -54,12 +63,24 @@ const router = createBrowserRouter([
         Component: Profile,
       },
       {
+        path: "jobs",
+        Component: Jobs,
+      },
+      {
+        path: "terms-use",
+        Component: TermsUse,
+      },
+      {
+        path: "privacy-policy",
+        Component: PrivacyPolicy,
+      },
+      {
+        path: "cookie-policy",
+        Component: CookiePolicy,
+      },
+      {
         path: "/serviceDetails/:id",
-        element: (
-          <PrivateRoute>
-            <ServiceDetails></ServiceDetails>
-          </PrivateRoute>
-        ),
+        element: <ServiceDetails></ServiceDetails>,
         loader: () => axios("/data.json"),
       },
     ],

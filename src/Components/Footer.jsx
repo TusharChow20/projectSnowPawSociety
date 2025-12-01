@@ -1,4 +1,5 @@
 import React from "react";
+import { NavLink } from "react-router";
 
 const Footer = () => {
   return (
@@ -19,16 +20,28 @@ const Footer = () => {
 
         <nav>
           <h6 className="footer-title">Company</h6>
-          <a className="link link-hover">About us</a>
-          <a className="link link-hover">Contact</a>
-          <a className="link link-hover">Jobs</a>
+          <NavLink to={"/aboutUs"} className="link link-hover">
+            About us
+          </NavLink>
+          <NavLink to={"/contact"} className="link link-hover">
+            Contact
+          </NavLink>
+          <NavLink to={"/jobs"} className="link link-hover">
+            Jobs
+          </NavLink>
         </nav>
 
         <nav>
           <h6 className="footer-title">Legal</h6>
-          <a className="link link-hover">Terms of use</a>
-          <a className="link link-hover">Privacy policy</a>
-          <a className="link link-hover">Cookie policy</a>
+          <NavLink to={"/terms-use"} className="link link-hover">
+            Terms of use
+          </NavLink>
+          <NavLink to={"/privacy-policy"} className="link link-hover">
+            Privacy policy
+          </NavLink>
+          <NavLink to={"/cookie-policy"} className="link link-hover">
+            Cookie policy
+          </NavLink>
         </nav>
 
         <nav>
