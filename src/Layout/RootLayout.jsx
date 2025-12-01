@@ -6,11 +6,11 @@ import Footer from "../Components/Footer";
 
 const RootLayout = () => {
   return (
-    <div>
+    <div className="max-w-7xl mx-auto">
       {/* <SmartLoader /> */}
-      <section className=" md:px-7 lg:px-15 md:mt-4 ">
-        <Navbar></Navbar>
-      </section>
+      <div className="sticky top-0 z-50 ">
+        <Navbar />
+      </div>
       <section className="min-h-[calc(100vh-301px)]">
         <Outlet></Outlet>
       </section>

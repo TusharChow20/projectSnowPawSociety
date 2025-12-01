@@ -86,7 +86,7 @@ const Testimonials = () => {
       </div>
 
       {/* Testimonials Grid */}
-      <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 px-4">
+      <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 ">
         {testimonials.map((testimonial, index) => (
           <div
             key={testimonial.id}
@@ -143,7 +143,7 @@ const Testimonials = () => {
         ))}
       </div>
       <div className="text-center mt-12">
-        <div className="bg-gradient-to-r from-blue-500 to-purple-600 rounded-2xl p-8 max-w-4xl mx-auto shadow-xl">
+        <div className="bg-gradient-to-r from-blue-500 to-purple-600 rounded-2xl p-8  mx-auto shadow-xl">
           <h3 className="text-3xl font-bold text-white mb-3">
             Join Thousands of Happy Pet Parents
           </h3>

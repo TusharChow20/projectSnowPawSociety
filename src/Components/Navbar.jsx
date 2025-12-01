@@ -27,7 +27,7 @@ const Navbar = () => {
 
   return (
     <div>
-      <div className="navbar shadow-sm md:rounded-xl px-4 bg-white ">
+      <div className="navbar shadow-xl md:rounded-xl bg-white  px-4">
         <div className="navbar-start">
           <div className="dropdown z-30">
             <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -56,6 +56,12 @@ const Navbar = () => {
               <li>
                 <NavLink to={"/service"}>Services</NavLink>
               </li>
+              <li>
+                <NavLink to={"/aboutUs"}>About Us</NavLink>
+              </li>
+              <li>
+                <NavLink to={"/contact"}>Contact</NavLink>
+              </li>
             </ul>
           </div>
           <a className="btn btn-ghost text-xl">
@@ -69,6 +75,12 @@ const Navbar = () => {
             </li>
             <li>
               <NavLink to={"/service"}>Services</NavLink>
+            </li>
+            <li>
+              <NavLink to={"/aboutUs"}>About Us</NavLink>
+            </li>
+            <li>
+              <NavLink to={"/contact"}>Contact</NavLink>
             </li>
           </ul>
         </div>

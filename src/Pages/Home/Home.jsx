@@ -39,13 +39,13 @@ const Home = () => {
   }, []);
 
   return (
-    <div className="md:px-15 mt-3">
+    <div className=" mt-3">
       <Hero data={data} />
       <div>
         <h1 className="mt-10 text-3xl font-bold text-center">
           Popular Winter Care Services
         </h1>
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 mt-2 gap-6 px-2">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 mt-2 gap-6">
           {data.map((eachData) => (
             <HomeCart key={eachData.serviceId} eachData={eachData} />
           ))}

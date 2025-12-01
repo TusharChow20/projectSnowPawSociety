@@ -21,12 +21,12 @@ const WinterCare = ({ winterData }) => {
   }
 
   return (
-    <div className="mt-10 px-4 md:px-4 overflow-hidden">
+    <div className="mt-10  overflow-hidden">
       <h2 className="text-2xl font-bold text-center mb-10">
         Our Winter Care Plans
       </h2>
 
-      <div className="max-w-4xl mx-auto space-y-8">
+      <div className="max-w-5xl mx-auto space-y-8">
         {winterData.map((item, index) => (
           <div
             key={index}
