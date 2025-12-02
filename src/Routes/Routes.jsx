@@ -16,6 +16,7 @@ import Jobs from "../Pages/FotterLInks/Jobs";
 import TermsUse from "../Pages/FotterLInks/TermsUse";
 import PrivacyPolicy from "../Pages/FotterLInks/PrivacyPolicy";
 import CookiePolicy from "../Pages/FotterLInks/CookiePolicy";
+import ManagePreferences from "../Pages/FotterLInks/ManagePreferences";
 
 const router = createBrowserRouter([
   {
@@ -77,6 +78,10 @@ const router = createBrowserRouter([
       {
         path: "cookie-policy",
         Component: CookiePolicy,
+      },
+      {
+        path: "manage-cookie-policy",
+        Component: ManagePreferences,
       },
       {
         path: "/serviceDetails/:id",

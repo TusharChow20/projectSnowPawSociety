@@ -4,6 +4,7 @@ import { Autoplay, EffectFade, Pagination } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/effect-fade";
 import "swiper/css/pagination";
+import { NavLink } from "react-router";
 
 const Hero = ({ data }) => {
   return (
@@ -29,16 +30,19 @@ const Hero = ({ data }) => {
                 alt={item.serviceName}
                 className="object-cover w-full h-full blur-[2px]"
               />
-              <div className="absolute inset-0 bg-gradient-to-t from-gray-900/70 via-gray-900/30 to-transparent flex flex-col justify-center items-center text-center text-white px-6">
+              <div className="absolute inset-0 bg-gradient-to-t from-gray-900/60 via-gray-900/80 to-transparent flex flex-col justify-center items-center text-center text-white px-6">
                 <p className="text-sm sm:text-lg uppercase tracking-[4px] text-blue-100 font-medium drop-shadow-lg">
                   {item.category}
                 </p>
                 <h2 className="text-3xl sm:text-5xl font-extrabold mt-3 mb-5 drop-shadow-xl">
                   {item.serviceName}
                 </h2>
-                <button className="btn btn-outline btn-sm sm:btn-md border-white text-white hover:bg-white hover:text-blue-900 transition-all duration-300">
+                <NavLink
+                  to={"/service"}
+                  className="btn btn-outline btn-sm sm:btn-md border-white text-white hover:bg-white hover:text-blue-900 transition-all duration-300"
+                >
                   Explore More
-                </button>
+                </NavLink>
               </div>
             </div>
           </SwiperSlide>

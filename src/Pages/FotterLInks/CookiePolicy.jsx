@@ -1,5 +1,6 @@
 import React from "react";
 import { Cookie, Check } from "lucide-react";
+import { NavLink } from "react-router";
 
 const CookiePolicy = () => {
   return (
@@ -199,9 +200,12 @@ const CookiePolicy = () => {
             We're transparent about how we use cookies to enhance your
             experience.
           </p>
-          <button className="px-8 py-3 bg-white text-gray-800 font-bold rounded-full hover:bg-gray-100 transition-all duration-300 shadow-lg">
+          <NavLink
+            to={"/manage-cookie-policy"}
+            className="px-8 py-3 bg-white text-gray-800 font-bold rounded-full hover:bg-gray-100 transition-all duration-300 shadow-lg cursor-pointer"
+          >
             Manage Preferences
-          </button>
+          </NavLink>
         </div>
       </div>
     </div>
